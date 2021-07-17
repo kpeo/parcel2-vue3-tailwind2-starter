@@ -1,9 +1,11 @@
 # parcel2-vue3-tailwind2 starter
 
+Basic initial Vue3 project with Parcel2 and Tailwind2
+
 ## Project setup
 ```
 yarn install
-or
+# or
 npm install
 ```
 
@@ -28,5 +30,7 @@ yarn lint
 npm run lint
 ```
 
-### Customize configuration
-Vue: see [Configuration Reference](https://cli.vuejs.org/config/)
+### References
+- [Vue3 Configuration](https://cli.vuejs.org/config/)
+- [Parcel2 Configuration](https://v2.parceljs.org/getting-started/configuration/)
+- [Tailwind2 Docs](https://tailwindcss.com/docs)
